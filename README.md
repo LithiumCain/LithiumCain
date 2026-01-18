@@ -6,6 +6,7 @@
 - 😄 Pronouns: She, Her, Hers
 - ⚡ Fun fact: I'm affiliated on Kick & Twitch! I'm also on TikTok! I stream World of Warcraft daily!
 - ⚡ My Linkedin is www.linkedin.com/in/lexistevens
+
 Bio: AI & Visual Storyteller, Experience Designer, Gamer Dog Mom
 
 I thrive at the intersection of design, technology, and storytelling—crafting immersive experiences that blend aesthetics, functionality, and emotional resonance ✨. With a background spanning UX/UI design, branding, AI-driven innovation, and high-end technology, I bring a diverse skill set that bridges artistic vision with technical expertise 🎯.
