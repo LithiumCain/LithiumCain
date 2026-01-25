@@ -5,7 +5,7 @@
 - 📫 How to reach me by phone (512) 534 - 1855, telegram @KhaleesiLithium, or by email: lexi@copequest.com or Zoey@wildconstruct.com
 - 😄 Pronouns: She, Her, Hers
 - ⚡ Fun fact: I'm affiliated on Kick & Twitch! I'm also on TikTok! I stream World of Warcraft daily!
-- ⚡ My Linkedin is www.linkedin.com/in/lexistevens
+- ⚡ [My LinkedIn Profile](www.linkedin.com/in/lexistevens)
 
 Bio: AI & Visual Storyteller, Experience Designer, Gamer Dog Mom
 
@@ -18,6 +18,8 @@ Beyond design, I have a sharp instinct for social media engagement, marketing st
 Goals: Making enough money for the whole family to eat.
 
 Hobbies: Streaming and Creating Content
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=LithiumCain&show_icons=true&theme=radical)
 <!---
 <!---
 LithiumCain/LithiumCain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
